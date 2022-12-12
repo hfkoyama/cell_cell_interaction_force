@@ -1,0 +1,18 @@
+100
+3.0
+
+0.0626 100.0
+26.0
+
+**********************************************
+
+2000		iteration
+0.05		dtは、何minか。
+
+0.626 100.0	targetのxyz_errの％を実現するmag0の値、および、距離依存のcostのexponentialの係数
+26.0		representative_distanceの値。系の代表的な相互作用距離の値をoutput_tracking_interaction_parameters.datから抽出して記入する、などして決める。
+
+
+
+
+
